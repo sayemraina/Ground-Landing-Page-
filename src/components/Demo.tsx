@@ -18,7 +18,7 @@ const CAPTIONS = [
   {
     label: "02",
     title: "Processing",
-    text: "Chief drafts the notes straight from the photos and videos - no narration needed. The observations a CRE professional would write, in real-time.",
+    text: "Ground drafts the notes straight from the photos and videos - no narration needed. The observations a CRE professional would write, in real-time.",
   },
   {
     label: "03",
@@ -64,7 +64,7 @@ export function Demo() {
       <div className="sticky top-0 h-screen overflow-hidden z-10 bg-[#0A0F1C]">
         <div className="absolute top-20 left-6 sm:left-12 z-20">
           <h2 className="text-xl sm:text-2xl font-semibold text-text-primary">
-            How to get started with Chief
+            How to get started with Ground
           </h2>
         </div>
         <motion.div

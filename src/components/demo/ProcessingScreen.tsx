@@ -4,7 +4,7 @@ export function ProcessingScreen() {
       {/* Status bar */}
       <div className="flex items-center justify-between px-6 pt-14 pb-2">
         <span className="text-xs text-text-muted">9:41</span>
-        <span className="text-xs text-text-muted font-medium">Chief<span className="text-gold">.</span></span>
+        <span className="text-xs text-text-muted font-medium">Ground<span className="text-gold">.</span></span>
         <div className="flex gap-1">
           <div className="w-4 h-2 rounded-sm border border-white/30" />
         </div>

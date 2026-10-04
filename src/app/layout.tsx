@@ -13,13 +13,13 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Chief · Context comes to you",
+  title: "Ground · Context comes to you",
   description:
-    "Mid-market CRE teams spend more time assembling context than acting on it. Chief captures site visits, structures the data, and gets your whole team up to speed.",
+    "Mid-market CRE teams spend more time assembling context than acting on it. Ground captures site visits, structures the data, and gets your whole team up to speed.",
   openGraph: {
-    title: "Chief · Context comes to you",
+    title: "Ground · Context comes to you",
     description:
-      "Mid-market CRE teams spend more time assembling context than acting on it. Chief captures site visits, structures the data, and gets your whole team up to speed.",
+      "Mid-market CRE teams spend more time assembling context than acting on it. Ground captures site visits, structures the data, and gets your whole team up to speed.",
     type: "website",
   },
 };
