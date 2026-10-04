@@ -13,7 +13,7 @@ export function Problem() {
           className: "text-lg sm:text-xl text-text-primary leading-relaxed",
         },
         {
-          text: "Chief captures site visits, structures and consolidates data scattered across tools, properties, and people into one living record that comes to you when it matters - keeping your whole team up to speed without anyone chasing it.",
+          text: "Ground captures site visits, structures and consolidates data scattered across tools, properties, and people into one living record that comes to you when it matters - keeping your whole team up to speed without anyone chasing it.",
           className: "text-lg sm:text-xl text-text-primary leading-relaxed",
         },
       ]}

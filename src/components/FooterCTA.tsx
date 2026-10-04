@@ -35,7 +35,7 @@ export function FooterCTA() {
           See it in action
         </h2>
         <p className="mt-4 text-text-secondary text-lg">
-          15 minutes. We&apos;ll show you how Chief handles a real site visit.
+          15 minutes. We&apos;ll show you how Ground handles a real site visit.
         </p>
         <button
           onClick={openCalendly}

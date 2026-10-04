@@ -1,8 +1,8 @@
 @AGENTS.md
 
-# Chief Landing Page
+# Ground Landing Page
 
-Standalone Next.js marketing site. NOT part of the Chief product app (`~/works/chief/app/`).
+Standalone Next.js marketing site. NOT part of the Ground product app (`~/works/chief/app/`).
 
 Codebase: `~/works/chief/landing-page/`
 Stack: Next.js 16, Tailwind v4, Framer Motion
@@ -11,7 +11,7 @@ Runs on: localhost:3000
 ## Hard Rules
 
 1. **NEVER take browser screenshots.** BreathingGrid canvas animation causes Playwright timeouts. Use `take_snapshot` (DOM) only.
-2. **NEVER load Chief product context files** (ROUTER.md, OPERATING.md, DESIGN-SPEC, V1-SPEC, etc). This is a marketing site.
+2. **NEVER load Ground product context files** (ROUTER.md, OPERATING.md, DESIGN-SPEC, V1-SPEC, etc). This is a marketing site.
 3. **NEVER pull session transcripts** via memory_read for context. Read STATUS.md instead.
 4. **NEVER do scroll/opacity measurement loops.** Make the edit, move on. Sayem will report visual issues.
 5. **Read once, edit, don't re-read to verify.** Edit tool confirms success.
