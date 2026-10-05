@@ -14,7 +14,7 @@ export function Header() {
     if (window.Calendly) {
       window.dispatchEvent(new CustomEvent("calendly:opening"));
       window.Calendly.initPopupWidget({
-        url: "https://calendly.com/sayam07raina/chief-15-min-intro",
+        url: "https://calendly.com/sayam07raina/ground-15-min-intro",
       });
     }
   }
