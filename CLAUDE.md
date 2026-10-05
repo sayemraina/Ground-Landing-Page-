@@ -2,9 +2,9 @@
 
 # Ground Landing Page
 
-Standalone Next.js marketing site. NOT part of the Ground product app (`~/works/chief/app/`).
+Standalone Next.js marketing site. NOT part of the Ground product app (`~/works/ground/app/`).
 
-Codebase: `~/works/chief/landing-page/`
+Codebase: `~/works/ground/landing-page/`
 Stack: Next.js 16, Tailwind v4, Framer Motion
 Runs on: localhost:3000
 
